@@ -23,8 +23,13 @@ background-image {
 	height: 100vh;
 }
 
+.logo {
+	position: relative;
+	margin-top: 20px;
+}
+
 h1 {
-	line-height: 350px;
+	line-height: 200px;
 
 
 }
